@@ -1,12 +1,14 @@
 [
   {
-    "Id": 1,
-    "gamemode": "test",
-    "question": "What is your name?"
+    "id": 1,
+    "mode": "test",
+    "question": "What is your name?",
+    "tags": []
   },
   {
-    "Id": 2,
+    "id": 2,
+    "mode": "test2",
     "question": "What is your favorite color?",
-    "gamemode": "test2"
+    "tags": ["mulher", "bissexual"]
   }
 ]
