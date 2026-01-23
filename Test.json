@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "gamemode": "test",
+    "question": "What is your name?"
+  },
+  {
+    "Id": 2,
+    "question": "What is your favorite color?",
+    "gamemode": "test2"
+  }
+]
