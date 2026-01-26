@@ -1,14 +1,17 @@
 [
   {
-    "id": 1,
-    "mode": "test",
-    "question": "What is your name?",
-    "tags": []
+    "question": "What is your favorite color?",
+    "type": 0,
+    "trackingMethod": 0
   },
   {
-    "id": 2,
-    "mode": "test2",
     "question": "What is your favorite color?",
-    "tags": ["mulher", "bissexual"]
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "What is your favorite color?",
+    "type": 0,
+    "trackingMethod": 2
   }
 ]
