@@ -1,17 +1,232 @@
 [
   {
-    "question": "pergunta 1",
-    "type": 0,
-    "trackingMethod": 0
+    "question": "fique em pe por 4 rodadas",
+    "type": 1,
+    "trackingMethod": 1
   },
   {
-    "question": "desafio 1",
+    "question": "nas proximas duas rodadas voce so pode falar seu nome igual um pokemon",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "fique de cuddle com uma pessoa sorteada por 4 rodadas ou 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "fique de 4 ate o fim da proxima rodada",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Proibido roupas no avatar por 3 rodadas",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "sente no colo de um jogador sorteado.",
     "type": 1,
     "trackingMethod": 0
   },
   {
-    "question": "pergunta 2",
+    "question": "(VRCPLUS) Tire uma foto sem roupas e envie de convite para a terceira pessoa da sua lista de amigos.  ou 2 shots",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "coloque na sua bio a procura de um novo namorado  ou 2 shots",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "coloque na bio ERP 20 reais  ou 2 shots",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Faça 10 flexões pelado(a), contando alto no mic. Hoje eu acordei feliz, do lado do meu amor, ele é grande e peludo.... ou 3 shots.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Fique em posição de \"downward dog\" (yoga de quatro com bunda pro alto) por 3 rodadas, balançando os quadris a cada elogio que receber.  ou 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Faça um lap dance virtual no avatar de alguém sorteado por 2 rodadas  ou 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "o grupo escolhe oque voce deve fazer por 2 rodadas se negar, 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "o grupo escolhe onde e como deve ficar por 2 rodadas se negar, 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "por duas rodadas deve imitar um animal escolhido pelo grupo",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "escolha um personagem ou invente um e atue como ele por 2 rodadas ou 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "use avatar de furry por 2 rodadas",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Nas próximas 2 rodadas, responda tudo rimando como um poeta maluco.",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "nas próximas 2 rodadas voce deve obedecer aos comandos de um jogador selecionado. se negar, 2 shots",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Oral virtual no jogador sorteado se negar, 2 shots",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Sentadas virtuais no jogador sorteado ou 3 shots",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "voce deve responder todas as perguntas de te fizerem com sinceridade por 1 minuto. se não se recusar a responder nenhuma o grupo deve responder perguntas suas ou beber shots.",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Troca de identidade: você e outra pessoa sorteada “viram” um ao outro (imita voz/trejeitos de forma respeitosa) por 1 rodada.",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "faça uma critica sincera a alguém do grupo",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "faça um elogio sincero a alguém do grupo",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "por 2 rodadas, tudo que você disser tem que ser obviamente mentira",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "você tem que elogiar alguém por algo “não óbvio”;;",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual livro/filme mudou sua visão de mundo e por quê?",
     "type": 0,
-    "trackingMethod": 2
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual é o maior arrependimento da sua vida que ainda te acorda à noite?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual é o seu maior medo irracional que te paralisa?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Você já roubou algo? Valor e motivo.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quantos partners sexuais reais você teve? ou beba 2 shots",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Descreva sua fantasia sexual mais taboo que nunca contou pra ninguém. ou beba 2 shots",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quantas vezes por semana você se masturba? ou beba 2 shots",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Oque voce costuma procurar num site porn ou beba 2 shots",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem no grupo você evitaria emprestar dinheiro? Razão honesta.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem no grupo seria o melhor \"dominante/submisso\"?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Se fosse fazer ERP com alguém do grupo, quem seria?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem do grupo deve trepar melhor?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Rank top 2 mais \"resistentes\" (duração na cama): teste hipotético.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem no grupo você casa, fode e mata (kill-fuck-marry)? justificativa para cada",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "ja usou alguma droga ilícita? se sim quais?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "qual foi sua historia de bêbado mais zoada?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Possui toys se sim quais?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "conte 2 mentiras e uma verdade. o grupo deve votar para adivinhar qual é. senão adivinharem tomam um desafio que todos devem executar,",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "conte da sua ultima experiencia de erp no vr com detalhes e de uma nota.",
+    "type": 0,
+    "trackingMethod": 0
   }
 ]
