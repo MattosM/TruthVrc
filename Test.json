@@ -228,5 +228,50 @@
     "question": "conte da sua ultima experiencia de erp no vr com detalhes e de uma nota.",
     "type": 0,
     "trackingMethod": 0
+  },
+  {
+    "question": "Não pode falar na sua língua nativa até a próxima rodada.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Troque de personalidade imitando o jogador sorteado enquanto ele te imita.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Se pudesse trocar de corpo com alguém do grupo por um dia, quem seria e o que faria?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Descreva o pior date da sua vida, com detalhes hilários ou constrangedores.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Conte sobre uma vez que você foi pego(a) fazendo algo embaraçoso.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual filme ou série te fez chorar e por quê (sem spoilers)?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem no grupo você convidaria para um threesome virtual? Razão.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem no grupo você escolheria como parceiro em um apocalipse zumbi? Razão estratégica e \"romântica\".",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual é o maior arrependimento da sua vida que ainda te acorda à noite?",
+    "type": 0,
+    "trackingMethod": 0
   }
 ]
