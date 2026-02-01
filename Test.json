@@ -280,12 +280,12 @@
     "trackingMethod": 0
   },
   {
-    "question": "Nas próximas duas rodadas, finja que é do gênero oposto.",
+    "question": "Nas próximas duas rodadas, finja que é do gênero oposto. ou 1 shot",
     "type": 1,
     "trackingMethod": 0
   },
   {
-    "question": "Nas próximas duas rodadas, interprete uma pick me girl.",
+    "question": "Nas próximas duas rodadas, interprete uma pick me girl. ou 2 shots",
     "type": 1,
     "trackingMethod": 0
   },
