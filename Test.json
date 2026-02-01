@@ -273,5 +273,50 @@
     "question": "Qual é o maior arrependimento da sua vida que ainda te acorda à noite?",
     "type": 0,
     "trackingMethod": 0
+  },
+   {
+    "question": "Bora ver se ainda tá sóbrio: alfabeto ao contrário (adicional: -1ª letra do nome). Se errar: 1 shot.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Nas próximas duas rodadas, finja que é do gênero oposto.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Nas próximas duas rodadas, interprete uma pick me girl.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Desbloqueie alguém e mande friend request.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem daqui ganharia mais dinheiro sendo do job?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem de nós você bloquearia agora? Escolha um.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Quem do grupo seria mais provável de você pegar IRL?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "A pior ou mais vergonhosa pesquisa que você já fez em site P?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Você tem alguma mania infantil?",
+    "type": 0,
+    "trackingMethod": 0
   }
 ]
