@@ -338,5 +338,120 @@
     "question": "Qual é o seu fetiche mais esquisito?",
     "type": 0,
     "trackingMethod": 0
+  },
+  {
+    "question": "Por 3 rodadas vire o 'narrador de novela mexicana': toda frase que disser tem que terminar com '¡Ay, caramba!' ou '¡Dios mío!' em voz dramática.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Escolha um jogador e vire o 'personal trainer' dele: faça ele repetir exercícios bobos no mundo inteiro por 2 rodadas (você comanda).",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Por 2 rodadas só pode se comunicar com sons de animais + gestos (sem palavras). Se alguém não entender, toma 1 shot juntos.",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Faça uma 'propaganda de infomercial' vendendo um jogador sorteado como se fosse um produto milagroso.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Por 2 rodadas toda vez que alguém mencionar cor, você tem que mudar de avatar pra algo dessa cor (se tiver).",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Fique em pose de 'estátua grega' (sem mexer nem piscar) por 1 rodadas. Quem te fizer rir ganha 1 shot de você.",
+    "type": 1,
+    "trackingMethod": 1
+  },
+  {
+    "question": "Vire 'mestre do tempo': pode pausar qualquer pessoa do grupo por 10 segundos (com comando de voz) até 3 vezes na rodada.",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Faça ASMR sussurrando segredos inventados sobre cada pessoa do grupo por 2 rodadas (bem perto no mic).",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual foi o momento mais 'cringe' que você já viveu em um mundo público de VRChat?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Se o grupo inteiro virasse um reality show de namoro no VR, quem você eliminaria na primeira semana e por quê?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual fetiche ou kink seu você acha que ninguém aqui imaginaria que você tem?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Conte a história mais absurda de um ERP que deu completamente errado (sem nomes se não quiser).",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual jogador aqui você acha que esconde melhor uma personalidade totalmente diferente do avatar?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Se pudesse invadir o PC de alguém do grupo por 5 minutos sem ser pego, o que você procuraria?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual é o seu maior 'turn-off' de personalidade que te faz sair imediatamente de um mundo?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Já fingiu estar em outro fuso horário pra evitar ERP com alguém? Conta a desculpa mais ridícula que usou.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual jogador aqui você escolheria pra ser seu 'parceiro de crime' em um mapa caótico tipo Murder e porque?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Descreva o pior 'ghosting' que você já deu ou recebeu dentro do VRChat.",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual é ou mundo que você acha que revela mais a personalidade real de alguém?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Se o grupo fosse um anime, qual seria seu 'power' especial e qual seria o do jogador à sua esquerda?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Qual segredo bizarro da sua vida real você nunca contou pra ninguém no VR (mas contaria aqui se todo mundo bebesse 1 shot antes) ou beba 1 shot?",
+    "type": 0,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Por 2 rodadas você só pode falar como se fosse um personagem de game de terror (voz baixa, pausas dramáticas, respirações).",
+    "type": 1,
+    "trackingMethod": 0
+  },
+  {
+    "question": "Por 3 rodadas toda vez que você andar tem que fazer som de passos exagerados (tipo cartoon) no mic.",
+    "type": 1,
+    "trackingMethod": 0
   }
 ]
